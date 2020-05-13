@@ -1,0 +1,4 @@
+sudo easy_install pip
+pip install yfinance
+pip install lxml
+
